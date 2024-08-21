@@ -3,7 +3,7 @@
 Before beginning:
 -A new repository was created, "sql-challenge".
 -REPO sql-challenge was cloned to my PC.
--A folder "EmployeeSQL" was created in REPO sql-challenge. All files for this challenge reside within their respective folders (Part1, Part2, Part3) named for their part in the challenge within 'EmployeeSQL' then pushed to GitHub.
+-A folder "EmployeeSQL" was created in REPO sql-challenge. 
 
 This challenge is 3-part.
 
