@@ -3,6 +3,7 @@
 Before beginning:
 -A new repository was created, "sql-challenge".
 -REPO sql-challenge was cloned to my PC.
+
 -A folder "EmployeeSQL_1" was created in REPO sql-challenge. All files for this challenge reside within folder 'EmployeeSQL_1' then pushed to GitHub.
 
 This challenge is 3-part.
@@ -10,6 +11,7 @@ This challenge is 3-part.
 Part 1: Data Modeling
 *Created sketch of ERD (Entity Relationship Diagram) using all 6 .csv files provided in Starter_Code.
 *Included 2 .png screen shots of ERD created with QuickDBD as well as a .pdf text documentation.
+
 *PageAdmin 4 was used to sketch ERD as well. A screenshot is included since the file is only easily opened with pageAdmin. ERD_Sketch-Data_Modeling.pgerd
 
 Part 2: Data Engineering
