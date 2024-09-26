@@ -1,58 +1,42 @@
 # sql-challenge for Challenge Module 9 SQL
 
+Github url: https://github.com/SoonerLisa/sql-challenge.git
+
 Before beginning:
--A new repository was created, "sql-challenge".
--REPO sql-challenge was cloned to my PC.
+-A new repository was created, "sql-challenge" and cloned to my PC.
 
--A folder "EmployeeSQL_1" was created in REPO sql-challenge. All files for this challenge reside within folder 'EmployeeSQL_1' then pushed to GitHub.
+Note: SQL files work nicely using Visual Studio Code
 
-Repository URL containing all Challenge 9 items
-https://github.com/SoonerLisa/sql-challenge.git
+C:\Users\soone\sql-challenge\data
+
+Data folder holds 6 starter code CSV files & README:
+Data path: "C:\Users\soone\sql-challenge\data"
+departments
+dept_emp
+dept_manager
+employees
+salaries
+titles
+
+File contents:
+C:\Users\soone\sql-challenge\EmployeeSQL
+__________________________________
 
 This challenge is 3-part.
--------------------------
 
-Part 1: Data Modeling
+Part 1-Data Modeling
+ERD_image_QuickDBD_Part1_sql_png
 *Created sketch of ERD (Entity Relationship Diagram) using all 6 .csv files provided in Starter_Code.
-*Included one for text only, two .png screen shots of ERD, and one QuickDBD using pgAdmin. 
-
-Part 1-Data Modeling Files
-1-Data Modeling
-ERD image files:
-QuickDBD-sql-challenge_in_text.rtf (Windows Word)
-QuickDBD-sql-challenge_Screenshot_1.png
-QuickDBD-sql-challenge_Screenshot_2.png
-ERD_Screenshot.pgerd (pageAdmin)
-___________________________________________________
-
-Part 2: Data Engineering
+----------------------------------
+Part 2-Data Engineering
+Data_Engineering_Part2_sql
 *Table schema were created for each of the 6 .csv files. 
-*All data were properly typed, keyed, and constrained where needed. 
-*A composite key was necessary of 3 .csv tables to insist each row are uniquely identified. (departments, dep_emp, dep_manager) 
-*Each .csv file has one SQL Source file and one screenshot of table schema after running in pgAdmin.
-
-Part 2-Data Enginering files:
-dep-emp.sql
-dept_emp-Screenshot-SQL_QUERY.png
-
-dept_manager.sql
-dept_manager-Screenshot-SQL_QUERY.png
-
-employees.sql
-employees-Screenshot-SQL_QUERY.png
-
-salaries.sql
-salaries-Screenshot-SQL_QUERY.png
-
-titles.sql
-titles-Screenshot-SQL_QUERY.png
-__________________________________________
-
-Part 3: Data Analysis
+*All data were properly typed and keyed.
+----------------------------------
+Part 3-Data Analysis
+Data_Analysis_Part3_sql
 *Lists (Conclusions) for all 8 questions
-*Each list is numbered from Q1-Q8.
+__________________________________
 
-Part 3-Data Analysis files:
-EmployeeSQL_1.sql
 
-Sources: Only sources within BCS and the Data Analytics Bootcamp files were used to complete this challenge. No outside sources were used.
+Sources: Only sources within BCS and the Data Analytics Bootcamp files were used to complete this challenge. QuickDB was used to create ERD image. No sources were used outside of TCC Bootcamp curriculum.
