@@ -30,7 +30,7 @@ All data were properly typed and keyed.
 ----------------------------------
 Part 3-Data Analysis
 Data_Analysis_Part3_sql
-Lists (Conclusions) for all 8 questions
+Lists schema for all 8 questions.
 __________________________________
 
 Sources: Only sources within BCS and the Data Analytics Bootcamp files were used to complete this challenge. QuickDB was used to create ERD image. No sources were used outside of TCC Bootcamp curriculum.
