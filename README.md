@@ -32,5 +32,7 @@ Part 3-Data Analysis
 Data_Analysis_Part3_sql
 Lists schema for all 8 questions.
 __________________________________
+In this challenge I performed data modeling, data engineering, and data analysis. To do so data was pulled from CSV files into a SQL database, in this case pgAdmin to create tables.
+The tables were used to create an ERD with QuickDB. From this point part 3 were simply analysis tests to create table schema, 8 answers, regarding grouping data into new tables.
 
 Sources: Only sources within BCS and the Data Analytics Bootcamp files were used to complete this challenge. QuickDB was used to create ERD image. No sources were used outside of TCC Bootcamp curriculum.
